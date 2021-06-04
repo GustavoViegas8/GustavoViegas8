@@ -3,7 +3,7 @@
 <h3> 👨‍💻 Sobre mim</h3>
 - 🌱 Atualmente estou estudando Analise e Desenvolvimento de Sistemas na faculdade de tecnologia SENAC (Terceiro Semestre).
  <br/>
-- 👯 Estou procurando estágio.
+- 👯 Estou procurando estágio (Focando Desenvolvimento Web).
  <br/>
  <h3> 📫 Contato:</h3>
   -WhatsApp: 53 981125790<br/>
