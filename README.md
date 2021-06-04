@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estou estudando Analise e Desenvolvimento de Sistemas na faculdade de tecnologia SENAC (Terceiro Semestre).
 
-- 👯 Estou procurando estágio (Focando Desenvolvimento Web). 
+- 👯 Estou procurando estágio (Focando Desenvolvimento Web BackEnd). 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoViegas8&show_icons=true&theme=tokyonight)
   
