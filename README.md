@@ -18,7 +18,7 @@
   
   - Email: gawi2k21@gmail.com ou gustavoviegas231914@hotmail.com
 
-<h3> Meu Youtube e LinkdIn</h3>
+<h3> Meu Youtube e LinkedIn</h3>
  <a href="https://www.youtube.com/channel/UCQzQ3vyOhPwzxYh4vRpyiWA/featured"><img alt="youtube" src="https://img.shields.io/youtube/channel/views/UCQzQ3vyOhPwzxYh4vRpyiWA?label=Gawi_&style=social"></a>
 <p> </p>
 <a href="https://www.linkedin.com/in/gustavo-viegas-8989a01b4/"><img width="65px" height="25px" src="https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png" alt="Linkedin"></a>
