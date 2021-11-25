@@ -13,7 +13,7 @@
  
   - WhatsApp: 53 981125790
   
-  - Discord: G̶awi_#7478
+  - Discord: Gawi_#0019
   
   - Email: gawi2k21@gmail.com ou gustavoviegas231914@hotmail.com
 
