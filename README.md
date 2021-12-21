@@ -3,7 +3,6 @@
 <h3> 👨‍💻 Sobre mim</h3>
 
 - 🌱 Atualmente estou estudando Analise e Desenvolvimento de Sistemas na faculdade de tecnologia SENAC (Terceiro Semestre).
-- 😎 Prefiro BackEnd
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoViegas8&show_icons=true&theme=tokyonight)
   
